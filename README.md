@@ -1,4 +1,4 @@
-<h1> Weather App for Prediction </h1>
+<h1> Weather App for Prediction Purpose </h1>
 
 <h2>Screenshots: </h2>
 
